@@ -78,7 +78,7 @@ To run an example, switch to that SSADPro's directory, and use `flutter run`. Ma
 * Asok Kumar Gaurav
 * Bhadra Soham
 * Truong Quang Duc
-* Yap Jay Shen
+* Yap Joon Shen
 
 
 ## Icon Acknowledgements
